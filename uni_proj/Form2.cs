@@ -10,24 +10,28 @@ using System.Windows.Forms;
 
 namespace uni_proj
 {
-    public partial class Form1 : Form
+    
+    public partial class Form2: Form
     {
-       public static Form1 form1 = new Form1();
-        public Form1()
+        public Form2()
         {
             InitializeComponent();
         }
 
-        private void label2_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form1.form1.Show();
+            this.Close();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
         {
 
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void Form2_Load(object sender, EventArgs e)
         {
-            Form2 form2 = new Form2();
-            form2.Show();
-            this.Hide();
+
         }
     }
 }
