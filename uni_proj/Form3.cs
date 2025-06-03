@@ -12,6 +12,7 @@ namespace uni_proj
 {
     public partial class Form3 : Form
     {
+        
         public Form3()
         {
             InitializeComponent();
@@ -20,6 +21,17 @@ namespace uni_proj
         private void Form3_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+            listBox1.Items.Add(listBox2.SelectedItems);
+        }
+
+        private void listBox2_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            
         }
     }
 }

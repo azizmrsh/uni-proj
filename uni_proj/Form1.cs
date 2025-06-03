@@ -47,6 +47,9 @@ namespace uni_proj
             apass.Add("1234");
             apass.Add("12345");
             apass.Add("123456");
+            name.Add("Mohammad");
+            email.Add("mohammad12@");
+            Password.Add("1234");
         }
 
         private void button1_Click(object sender, EventArgs e)
