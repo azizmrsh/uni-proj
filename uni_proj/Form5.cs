@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace uni_proj
 {
-    public partial class Form4 : Form
+    public partial class Form5 : Form
     {
-        public Form4()
+        public Form5()
         {
             InitializeComponent();
-        }
-
-        private void Form4_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }

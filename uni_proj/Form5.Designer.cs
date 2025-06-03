@@ -1,6 +1,6 @@
 ﻿namespace uni_proj
 {
-    partial class Form4
+    partial class Form5
     {
         /// <summary>
         /// Required designer variable.
@@ -30,14 +30,13 @@
         {
             this.SuspendLayout();
             // 
-            // Form4
+            // Form5
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(875, 497);
-            this.Name = "Form4";
-            this.Text = "Employee";
-            this.Load += new System.EventHandler(this.Form4_Load);
+            this.ClientSize = new System.Drawing.Size(972, 534);
+            this.Name = "Form5";
+            this.Text = "Manager";
             this.ResumeLayout(false);
 
         }
