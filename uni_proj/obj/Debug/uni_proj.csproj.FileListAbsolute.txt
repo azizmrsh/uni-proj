@@ -21,3 +21,15 @@ C:\Users\moham\Desktop\test\uni_proj\obj\Debug\uni_proj.csproj.CoreCompileInputs
 C:\Users\moham\Desktop\test\uni_proj\obj\Debug\uni_proj.exe
 C:\Users\moham\Desktop\test\uni_proj\obj\Debug\uni_proj.pdb
 C:\Users\moham\Desktop\test\uni_proj\obj\Debug\uni_proj.Form3.resources
+C:\Users\amron\Source\Repos\uni-proj\uni_proj\bin\Debug\uni_proj.exe.config
+C:\Users\amron\Source\Repos\uni-proj\uni_proj\bin\Debug\uni_proj.exe
+C:\Users\amron\Source\Repos\uni-proj\uni_proj\bin\Debug\uni_proj.pdb
+C:\Users\amron\Source\Repos\uni-proj\uni_proj\obj\Debug\uni_proj.csproj.AssemblyReference.cache
+C:\Users\amron\Source\Repos\uni-proj\uni_proj\obj\Debug\uni_proj.Form1.resources
+C:\Users\amron\Source\Repos\uni-proj\uni_proj\obj\Debug\uni_proj.Form2.resources
+C:\Users\amron\Source\Repos\uni-proj\uni_proj\obj\Debug\uni_proj.Form3.resources
+C:\Users\amron\Source\Repos\uni-proj\uni_proj\obj\Debug\uni_proj.Properties.Resources.resources
+C:\Users\amron\Source\Repos\uni-proj\uni_proj\obj\Debug\uni_proj.csproj.GenerateResource.cache
+C:\Users\amron\Source\Repos\uni-proj\uni_proj\obj\Debug\uni_proj.csproj.CoreCompileInputs.cache
+C:\Users\amron\Source\Repos\uni-proj\uni_proj\obj\Debug\uni_proj.exe
+C:\Users\amron\Source\Repos\uni-proj\uni_proj\obj\Debug\uni_proj.pdb
