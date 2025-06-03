@@ -1,13 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\moham\\Desktop\\uni-proj\\",
+  "WorkspaceRootPath": "C:\\Users\\moham\\Desktop\\test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{59F1D9BA-DB9C-4DE7-8A3B-AC7F016DE541}|uni_proj\\uni_proj.csproj|c:\\users\\moham\\desktop\\uni-proj\\uni_proj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{59F1D9BA-DB9C-4DE7-8A3B-AC7F016DE541}|uni_proj\\uni_proj.csproj|c:\\users\\moham\\desktop\\test\\uni_proj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F1D9BA-DB9C-4DE7-8A3B-AC7F016DE541}|uni_proj\\uni_proj.csproj|solutionrelative:uni_proj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F1D9BA-DB9C-4DE7-8A3B-AC7F016DE541}|uni_proj\\uni_proj.csproj|C:\\Users\\moham\\Desktop\\test\\uni_proj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{59F1D9BA-DB9C-4DE7-8A3B-AC7F016DE541}|uni_proj\\uni_proj.csproj|solutionrelative:uni_proj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59F1D9BA-DB9C-4DE7-8A3B-AC7F016DE541}|uni_proj\\uni_proj.csproj|C:\\Users\\moham\\Desktop\\uni-proj\\uni_proj\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{59F1D9BA-DB9C-4DE7-8A3B-AC7F016DE541}|uni_proj\\uni_proj.csproj|c:\\users\\moham\\desktop\\test\\uni_proj\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F1D9BA-DB9C-4DE7-8A3B-AC7F016DE541}|uni_proj\\uni_proj.csproj|solutionrelative:uni_proj\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F1D9BA-DB9C-4DE7-8A3B-AC7F016DE541}|uni_proj\\uni_proj.csproj|c:\\users\\moham\\desktop\\test\\uni_proj\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59F1D9BA-DB9C-4DE7-8A3B-AC7F016DE541}|uni_proj\\uni_proj.csproj|solutionrelative:uni_proj\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F1D9BA-DB9C-4DE7-8A3B-AC7F016DE541}|uni_proj\\uni_proj.csproj|c:\\users\\moham\\desktop\\test\\uni_proj\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F1D9BA-DB9C-4DE7-8A3B-AC7F016DE541}|uni_proj\\uni_proj.csproj|solutionrelative:uni_proj\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F1D9BA-DB9C-4DE7-8A3B-AC7F016DE541}|uni_proj\\uni_proj.csproj|c:\\users\\moham\\desktop\\test\\uni_proj\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59F1D9BA-DB9C-4DE7-8A3B-AC7F016DE541}|uni_proj\\uni_proj.csproj|solutionrelative:uni_proj\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F1D9BA-DB9C-4DE7-8A3B-AC7F016DE541}|uni_proj\\uni_proj.csproj|c:\\users\\moham\\desktop\\test\\uni_proj\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{59F1D9BA-DB9C-4DE7-8A3B-AC7F016DE541}|uni_proj\\uni_proj.csproj|solutionrelative:uni_proj\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -18,30 +38,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\test\\uni_proj\\Form4.cs",
+              "RelativeDocumentMoniker": "uni_proj\\Form4.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\test\\uni_proj\\Form4.cs [Design]",
+              "RelativeToolTip": "uni_proj\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T11:57:03.635Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\test\\uni_proj\\Form3.cs",
+              "RelativeDocumentMoniker": "uni_proj\\Form3.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\test\\uni_proj\\Form3.cs",
+              "RelativeToolTip": "uni_proj\\Form3.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAMwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T11:54:31.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\test\\uni_proj\\Form3.cs",
+              "RelativeDocumentMoniker": "uni_proj\\Form3.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\test\\uni_proj\\Form3.cs [Design]",
+              "RelativeToolTip": "uni_proj\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T11:48:40.123Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\test\\uni_proj\\Form2.cs",
+              "RelativeDocumentMoniker": "uni_proj\\Form2.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\test\\uni_proj\\Form2.cs",
+              "RelativeToolTip": "uni_proj\\Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T11:43:01.709Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\uni-proj\\uni_proj\\Form1.cs",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\test\\uni_proj\\Form1.cs",
               "RelativeDocumentMoniker": "uni_proj\\Form1.cs",
-              "ToolTip": "C:\\Users\\moham\\Desktop\\uni-proj\\uni_proj\\Form1.cs [Design]",
-              "RelativeToolTip": "uni_proj\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\test\\uni_proj\\Form1.cs*",
+              "RelativeToolTip": "uni_proj\\Form1.cs*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T11:42:28.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\test\\uni_proj\\Form1.cs",
+              "RelativeDocumentMoniker": "uni_proj\\Form1.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\test\\uni_proj\\Form1.cs [Design]*",
+              "RelativeToolTip": "uni_proj\\Form1.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T23:37:23.55Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Form2.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\uni-proj\\uni_proj\\Form2.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\test\\uni_proj\\Form2.cs",
               "RelativeDocumentMoniker": "uni_proj\\Form2.cs",
-              "ToolTip": "C:\\Users\\moham\\Desktop\\uni-proj\\uni_proj\\Form2.cs [Design]",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\test\\uni_proj\\Form2.cs [Design]",
               "RelativeToolTip": "uni_proj\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T15:16:41.461Z"
+              "WhenOpened": "2025-06-02T15:16:41.461Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

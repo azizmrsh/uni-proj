@@ -33,5 +33,19 @@ namespace uni_proj
         {
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form1.name.Add(textBox1.Text);
+            Form1.email.Add(textBox2.Text);
+            Form1.Password.Add(textBox3.Text);
+            Form1.id.Add(textBox4.Text);
+            Form1.state.Add(textBox5.Text);
+            Form1.Bdate.Add(textBox6.Text);
+            MessageBox.Show("Data Added Successfully");
+
+            Form1.form1.Show();
+            this.Close();
+        }
     }
 }
